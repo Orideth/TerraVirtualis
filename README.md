@@ -1,3 +1,25 @@
+Iowa State University Creative Component Title Page
+Terra Virtualis: Bridging Fields of User Experience, Design Education, and
+Preservation & Cultural Heritage
+by
+Denis Bjelica
+
+A creative component submitted to the graduate faculty
+in partial fulfillment of the requirements for the degree of
+MASTER OF SCIENCE
+Major: Human Computer Interaction
+
+Program of Study Committee:
+Mikesch Muecke, Ph.D., Co-Major 
+Diane Al Shihabi, Ph.D., Co-Major 
+
+The student author, whose presentation of the scholarship herein was approved by the program
+of study committee, is solely responsible for the content of this creative component. The
+Graduate College will ensure this creative component is globally accessible and will not permit
+alterations after a degree is conferred.
+Iowa State University
+Ames, Iowa
+2024
 
 
 Terra Virtualis bridges the fields of User Experience, Education and Historical Preservation. The project lays out research based systems and practices for art, cultural, and historic education within virtual environments. This project lays out research bases systems and practices for art, cultural, and historic education within a virtual environment. The project unifies pedagogical methods by utilizing technology to create cohesion and improve student outcomes. Terra is an open-world walking simulator that provides users with curated educational experiences.
