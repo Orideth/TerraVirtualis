@@ -10,7 +10,8 @@ MASTER OF SCIENCE
 Major: Human Computer Interaction
 
 Program of Study Committee:
-Mikesch Muecke, Ph.D., Co-Major 
+
+Mikesch Muecke, Ph.D., Co-Major
 Diane Al Shihabi, Ph.D., Co-Major 
 
 The student author, whose presentation of the scholarship herein was approved by the program
