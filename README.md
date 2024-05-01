@@ -6,6 +6,9 @@ Preservation & Cultural Heritage
 by
 Denis Bjelica
 
+A video of the project and description of technical components can be found here:
+https://www.youtube.com/watch?v=hrqeLwglWiQ&t=7s
+
 A creative component submitted to the graduate faculty
 in partial fulfillment of the requirements for the degree of
 MASTER OF SCIENCE
