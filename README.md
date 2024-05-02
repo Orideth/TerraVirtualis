@@ -1,8 +1,5 @@
-Iowa State University Creative Component Title Page
-
-Terra Virtualis: Bridging Fields of User Experience, Design Education, and
-Preservation & Cultural Heritage
-
+# Terra Virtualis: Bridging Fields of User Experience, Design Education, and Preservation & Cultural Heritage
+### Iowa State University Creative Component 
 by
 Denis Bjelica
 
